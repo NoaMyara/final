@@ -6,4 +6,4 @@ Created on Mon Oct 27 22:42:20 2014
 """
 
 def fun0():
-    print'1+2=2'
+    print'1+3=2'
